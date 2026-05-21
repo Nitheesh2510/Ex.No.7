@@ -1,7 +1,7 @@
 # Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
 ### Date: 19.05.2026
-### Name : Nitheesj Kumar B
+### Name : Nitheesh Kumar B
 ### Register No: 212224230189
 ---
 
